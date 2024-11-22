@@ -1,0 +1,57 @@
+name: julieann.simonis
+description: coherent
+version: 0.89.685
+author: null
+language: scala
+buildSystem: ''
+buildSystemDetails:
+  artefactID: julieannsimonis
+  parentArtefactID: ''
+  buildSystem: maven
+  author: null
+  createdAt: '2024-11-22 20:18:46'
+pipelines: {}
+datasets: {}
+templates: {}
+jobs: {}
+gemContainer:
+  languageVersion: ''
+  gemLibsVersion: ''
+  gems: {}
+  dependencies: null
+functions:
+  author: null
+  createdAt: '2024-11-22 20:18:46'
+  udfs: {}
+  udafs: {}
+  expressions: {}
+  airflowFunctions: {}
+  businessRules: {}
+subgraphs: {}
+sqlModels: {}
+sqlSnapshots: {}
+sqlTests: {}
+sqlMacros: {}
+sqlSeeds: {}
+sqlSources: {}
+sqlUnreferencedSources: {}
+sqlPipeline: null
+dependencies:
+- modifiedAt: '2024-11-22T20:18:46.573888Z'
+  name: plibMaven
+  version: 8.6.0-SNAPSHOT
+  id: '585363867'
+  createdAt: '2024-11-22T20:18:46.573888Z'
+  type: plibMaven
+projectDependencies:
+  '288':
+    projectUID: 288
+    projectName: lynn.altenwerth
+    repositoryPath: gitUri=http://gitserver:3000/dev_StUVUq99_team_467/dev_StUVUq99_project_288.git&subPath=
+    version: lynn.altenwerth/8.75.317
+    isDefault: false
+    author: null
+    createdAt: '2024-11-22 20:18:44'
+flags:
+  shouldAddDefaultDependenciesIfAbsent: true
+pipelineConfigurations: {}
